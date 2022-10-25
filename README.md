@@ -15,6 +15,6 @@ I have also worked as a full-stack developer with the following technologies: PH
  - **Other tools**: Git, Docker, AWS, Jenkins.
 
 ### :man_technologist: Some links:
-https://dev.to/jgamaraalv
-https://app.codesignal.com/profile/jgamaralv/
-https://www.codewars.com/users/jgamaralv
+- https://dev.to/jgamaraalv
+- https://app.codesignal.com/profile/jgamaralv/
+- https://www.codewars.com/users/jgamaralv
