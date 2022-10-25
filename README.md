@@ -1,18 +1,16 @@
 # João Amaral :man_technologist:
 
 ## Hi there! EN
-My name is João Amaral and I'm a brazilian Front-end Developer. I'm interested to improve my skills as a developer and learn about technologies/tools that will make my development environment much better. So, welcome to my Github profile!
+My name is João Amaral and I'm a brazilian Front-end Developer. Passionate front-end developer with 10+ years of experience. So, welcome to my Github profile!
+
+My mission is to make internet applications more beautiful, easier, reactive, performant and scalable.
+
+Main technologies I use nowadays: React, Typescript, Jest, Jenkins, AWS (S3, Cloudfront, Route 53, CodeBuild) , Git, Redux among others.
+
+I have also worked as a full-stack developer with the following technologies: PHP, Node, MySQL, Firebase, Mongodb, socket.io among others.
 
 ### :man_technologist: My current stack:
  - **Programming Languages**: JavaScript/TypeScript;
- - **Frameworks**: React, Nextjs, Gatsby;
- - **Other tools**: Git, Docker, AWS.
-----------------------------
-## Olá! PT-BR 🇧🇷
-Meu nome é João Amaral e sou desenvolver Front-end brasileiro. Estou interessado em melhorar minhas habilidades como desenvolvedor e aprender tecnologias/ferramentas que irão fazer meu ambiente de desenvolvimento ainda melhor. Seja bem-vindo ao meu perfil no Github!
-
-### :man_technologist: Minha _stack_ de desenvolvimento atual:
- - **Linguagens de Programação**: JavaScript/TypeScript;
- - **Frameworks**: React, Nextjs, Gatsby;
- - **Outras ferramentas**: Git, Docker, AWS.
+ - **Frameworks/Libs**: React, Nextjs, Gatsby, Node, Remix, Redux, Jest, React Testing Library, jotai, socket.io among others;
+ - **Other tools**: Git, Docker, AWS, Jenkins.
  
