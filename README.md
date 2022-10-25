@@ -13,4 +13,8 @@ I have also worked as a full-stack developer with the following technologies: PH
  - **Programming Languages**: JavaScript/TypeScript;
  - **Frameworks/Libs**: React, Nextjs, Gatsby, Node, Remix, Redux, Jest, React Testing Library, jotai, socket.io among others;
  - **Other tools**: Git, Docker, AWS, Jenkins.
- 
+
+### :man_technologist: Some links:
+https://dev.to/jgamaraalv
+https://app.codesignal.com/profile/jgamaralv/
+https://www.codewars.com/users/jgamaralv
