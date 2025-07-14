@@ -1,7 +1,7 @@
 # João Vequiato :man_technologist:
 
 ## Hi there! EN
-My name is João Amaral and I'm a brazilian Front-end Developer. Passionate front-end developer with 12+ years of experience. So, welcome to my Github profile!
+My name is João Amaral and I'm a brazilian Front-end Developer. Passionate front-end developer with 14+ years of experience. So, welcome to my Github profile!
 
 My mission is to make internet applications more beautiful, easier, reactive, performant and scalable.
 
